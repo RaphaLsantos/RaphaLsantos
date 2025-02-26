@@ -1,9 +1,8 @@
 ## Olá, me chamo Raphael Silva 👋
 
 
-- 🔭Trabalho como Auxiliar geral, na Catavento Cultural e Educacional.
+- 🔭Trabalho como Auxiliar de Tecnologia 4.0, na Fábrica de Cultura Parque Belém.
 - 🌱 Estudando JavaScript.
-- 😄 ele/dele
 
 
 <a href="https://github.com/RaphaLsantos/github-readme-stats">
