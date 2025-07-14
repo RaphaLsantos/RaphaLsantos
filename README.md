@@ -1,8 +1,10 @@
 ## Olá, me chamo Raphael Silva 👋
 
 
-- 🔭Trabalho como Auxiliar de Tecnologia 4.0, na Fábrica de Cultura Parque Belém.
-- 🌱 Estudando JavaScript.
+- Trabalho como Auxiliar de Tecnologia 4.0, na Fábrica de Cultura Parque Belém.
+- Estudandte de -> React/JavaScript/Html/Css/PhP/Node.js/Python.
+- Formado na Etec e na UNICID (Técnico e Tecnólogo).
+
 
 
 <a href="https://github.com/RaphaLsantos/github-readme-stats">
