@@ -2,7 +2,7 @@
 
 
 - Trabalho como Auxiliar de Tecnologia 4.0, na Fábrica de Cultura Parque Belém.
-- Estudandte de -> React/JavaScript/Html/Css/PhP/Node.js/Python.
+- Estudante de -> React/JavaScript/Html/Css/PhP/Node.js/Python.
 - Formado na Etec e na UNICID (Técnico e Tecnólogo).
 
 
